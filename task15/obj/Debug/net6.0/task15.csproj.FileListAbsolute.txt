@@ -1,0 +1,15 @@
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\bin\Debug\net6.0\task15.exe
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\bin\Debug\net6.0\task15.deps.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\bin\Debug\net6.0\task15.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\bin\Debug\net6.0\task15.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\refint\task15.dll
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.pdb
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+C:\Users\Ждана-PC\Desktop\Обучение тестировщик ПО\GB\знакомство с языками программирования\ДЗ2\task15\obj\Debug\net6.0\ref\task15.dll
